@@ -9,3 +9,5 @@
           tmp.png
           report.log
         test_delmember.py
+    3. conftest.py
+    4. pytest.ini
