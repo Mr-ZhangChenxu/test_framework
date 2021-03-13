@@ -1,0 +1,8 @@
+get_searchs:
+  - by: xpath
+    locator: //*[@resource-id="com.tencent.wework:id/fk1"]
+    action: find_sendkeys
+    value: ${name}
+
+
+

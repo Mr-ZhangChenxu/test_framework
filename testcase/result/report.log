@@ -1,0 +1,16 @@
+Sat, 13 Mar 2021 18:38:08 main_page.py[line:16] INFO 点击通讯录
+Sat, 13 Mar 2021 18:38:08 base_page.py[line:36] INFO find: by=xpath, locator=//*[@text='日程']
+Sat, 13 Mar 2021 18:38:14 base_page.py[line:36] INFO find: by=xpath, locator=//*[@text="通讯录"]
+Sat, 13 Mar 2021 18:38:19 base_page.py[line:42] INFO 未找到元素
+Sat, 13 Mar 2021 18:38:21 base_page.py[line:36] INFO find: by=xpath, locator=//*[@text="通讯录"]
+Sat, 13 Mar 2021 18:38:23 addresslist_page.py[line:16] INFO 点击搜索
+Sat, 13 Mar 2021 18:38:23 base_page.py[line:36] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/guu"]
+Sat, 13 Mar 2021 18:38:29 search_page.py[line:19] INFO 输入用户名a001，获取删除前结果数量
+Sat, 13 Mar 2021 18:38:29 base_page.py[line:36] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/fk1"]
+Sat, 13 Mar 2021 18:38:34 search_page.py[line:27] INFO 点击第一个成员
+Sat, 13 Mar 2021 18:38:35 memberinfo_page.py[line:18] INFO 进入联系人编辑/删除页
+Sat, 13 Mar 2021 18:38:35 base_page.py[line:36] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/guk"]
+Sat, 13 Mar 2021 18:38:41 base_page.py[line:36] INFO find: by=xpath, locator=//*[@text="编辑成员"]
+Sat, 13 Mar 2021 18:38:52 delmember_page.py[line:18] INFO 删除联系人
+Sat, 13 Mar 2021 18:39:01 base_page.py[line:36] INFO find: by=xpath, locator=//*[@text="确定"]
+Sat, 13 Mar 2021 18:39:01 delmember_page.py[line:23] INFO 获取删除后的结果数量
